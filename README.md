@@ -12,6 +12,7 @@ to learn and predict drug-target interactions.
 | create_data.py           | Manages preprocessing steps and finally creates proper data in PyTorch format for learning process. |
 | data                     | Davis and Kiba datasets                                                                             |
 | final results            | Learned parameters of the model plus the best result of each dataset                                |
+| white paper              | Soon...                                                                                             |
 
 ## Step-by-step running
 Soon...
