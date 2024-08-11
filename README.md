@@ -1,6 +1,7 @@
 ## Overview
-DTANet is a deep learning model inspired by GraphDTA and Graph Kolmogorov-Arnold Networks
-to learn and predict drug-target interactions.
+DTANet is a deep learning model inspired by Graph Kolmogorov-Arnold Networks and GraphDTA<br>
+to learn and predict drug-target interactions with promising performance.<br><br>
+![Architecture of DTANet](https://github.com/kourosh-y/DTANet/blob/main/white%20paper/DTANet_arch.png)
 
 ## Resources
 | Files/Folders            | Description                                                                                         |
