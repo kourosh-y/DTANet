@@ -20,4 +20,12 @@ Soon ...
 
 
 ## License
-Under [MIT-licensed](./LICENSE).
+This repo is provided for showcasing results of my final BSs project only. 
+You may use, modify, and redistribute this code, provided that you:
+
+1. Do not use this code for academic publication without the explicit permission of the author.
+2. Cite the original repository if you use this code in any academic or research context.
+3. Contact the author before publishing any paper that directly builds upon or benchmarks against this work.
+
+All other rights reserved.
+
