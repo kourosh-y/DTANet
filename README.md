@@ -28,6 +28,6 @@ python train_validate_test.py
 
 
 ## License
-This repo is provided for showcasing results of my final BSs project only. 
+This repo is provided for showcasing results of my final BSs project only. \
 All rights reserved.
 
