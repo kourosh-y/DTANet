@@ -16,10 +16,10 @@ to learn and predict drug-target interactions with promising performance.<br><br
 | white paper              | Available                                                                                           |
 
 ## Step-by-step running
-# 1. Preprocess Davis and Kiba datasets into PyTorch Geometric format
+### 1. Preprocess Davis and Kiba datasets into PyTorch Geometric format
 python create_data.py
 
-# 2. Train, validate, and test the DTANet model
+### 2. Train, validate, and test the DTANet model
 python train_validate_test.py
 
 
