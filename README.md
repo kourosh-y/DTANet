@@ -13,10 +13,14 @@ to learn and predict drug-target interactions with promising performance.<br><br
 | create_data.py           | Manages preprocessing steps and finally creates proper data in PyTorch format for learning process. |
 | data                     | Davis and Kiba datasets                                                                             |
 | final results            | Learned parameters of the model plus the best result of each dataset                                |
-| white paper              | Soon ...                                                                                             |
+| white paper              | Available                                                                                           |
 
 ## Step-by-step running
-Soon ...
+# 1. Preprocess Davis and Kiba datasets into PyTorch Geometric format
+python create_data.py
+
+# 2. Train, validate, and test the DTANet model
+python train_validate_test.py
 
 
 ## License
